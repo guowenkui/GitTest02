@@ -22,6 +22,10 @@
     
     self.view.backgroundColor  =[UIColor redColor];
     NSLog(@"提交二");
+    
+    UIView*view =[[UIView alloc] init];
+    [self.view addSubview:view];
+    NSLog(@"提交三");
 }
 
 
