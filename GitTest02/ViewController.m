@@ -26,6 +26,8 @@
     UIView*view =[[UIView alloc] init];
     [self.view addSubview:view];
     NSLog(@"提交三");
+    
+    //测试.gitconfig
 }
 
 
